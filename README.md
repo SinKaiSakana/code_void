@@ -35,5 +35,13 @@ suis:doll 💠 卡厄思梦境辅助连点器脚本 | ✨ 持续更新中
  - **捕梦网辅助交流群**（1080762030）。
 
 <div align="center">
-  <img src="./images/ad.png" width="100%" />
+  <img src="./images/ad_卡牌需求_开局.gif" width="100%" />
+</div>
+
+<div align="center">
+  <img src="./images/ad_卡牌需求_安全区.gif" width="100%" />
+</div>
+
+<div align="center">
+  <img src="./images/ad_装备需求_未知区.gif" width="100%" />
 </div>
