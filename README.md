@@ -1,6 +1,6 @@
-# suis_void
+# suis:doll ≒ 是捕梦网
 
-suis:void 💠 卡厄思梦境辅助连点器脚本 | ✨ 持续更新中
+suis:doll 💠 卡厄思梦境辅助连点器脚本 | ✨ 持续更新中
 
 <div align="center">
   <img src="./images/ic_launcher@2x.png" width="128" />
@@ -24,7 +24,7 @@ suis:void 💠 卡厄思梦境辅助连点器脚本 | ✨ 持续更新中
 
 ## 下载
 
-卡厄思梦境辅助连点器脚本「suis:void」
+卡厄思梦境辅助连点器脚本「suis:doll」「是捕梦网」
 
  - https://asaiq.lanzoum.com/b00wnng7eh
 
@@ -32,7 +32,7 @@ suis:void 💠 卡厄思梦境辅助连点器脚本 | ✨ 持续更新中
 
 免费下载/使用教程/提出意见/催更/有爱赞助, 欢迎加入:
 
- - **卡厄思梦境辅助内测群**（1080762030）。
+ - **捕梦网辅助交流群**（1080762030）。
 
 <div align="center">
   <img src="./images/ad.png" width="100%" />
